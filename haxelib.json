@@ -1,0 +1,22 @@
+{
+    "contributors": [
+        "haxeui",
+        "ianharrigan",
+        "bulbyvr"
+    ],
+    "version": "1.3.0",
+    "dependencies": {
+        "haxeui-core": "",
+        "nativedialogs": ""
+    },
+    "releasenote": "1.3 release",
+    "tags": [
+        "ui",
+        "native",
+        "gui"
+    ],
+    "license": "MIT",
+    "name": "haxeui-native-filedialogs",
+    "description": "Native file dialogs for CPP, Neko, and HL",
+    "url": "https://github.com/TheDrawingCoding-Gamer/haxeui-hashlink-filedialogs"
+}
